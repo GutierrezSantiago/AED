@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4231be2-199c-4fda-a761-ba6857f4e132" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cb2aCVtHvQE6MYts2e5hTZTA77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03] (1)">
+    <configuration name="2020_AED_TP2_Assale_85742_[1K06]Gutierrez_85828[1K06]Gorsd_85861[1K03]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020_AED_TP2_Assale_85742_[1K06]Gutierrez_85828[1K06]Gorsd_85861[1K03].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03] (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Desktop\Contenidos\Santi\UTN\AED\Proyectos\TP\2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03].py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Subrutina 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Subrutina 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Validacino" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Validacino.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03] (1)" />
+        <item itemvalue="Python.2020_AED_TP2_Assale_85742_[1K06]_Gutierrez_85828_[1K06]_Gorsd_85861_[1K03]" />
+        <item itemvalue="Python.Validacino" />
+        <item itemvalue="Python.Subrutina 3" />
+        <item itemvalue="Python.2020_AED_TP2_Assale_85742_[1K06]Gutierrez_85828[1K06]Gorsd_85861[1K03]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="918" y="615" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590784353022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="918" y="615" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1590784353022" />
+    <state width="1898" height="524" key="GridCell.Tab.0.bottom" timestamp="1591466838071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="524" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591466838071" />
+    <state width="1898" height="524" key="GridCell.Tab.0.center" timestamp="1591466838070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="524" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591466838070" />
+    <state width="1898" height="524" key="GridCell.Tab.0.left" timestamp="1591466838070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="524" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591466838070" />
+    <state width="1898" height="524" key="GridCell.Tab.0.right" timestamp="1591466838070">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="524" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591466838070" />
+    <state x="17" y="148" key="SettingsEditor" timestamp="1590790478936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="17" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590790478936" />
+  </component>
+</project>

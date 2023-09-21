@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff32d1ce-7114-4e98-818f-41d23fad073b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gryX9pWNS5nC1UXkEnrxU5FAGX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+  </component>
+  <component name="RunManager" selected="Python.PRACTICA CODIGOS">
+    <configuration name="PRACTICA CODIGOS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practicaparcial3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PRACTICA CODIGOS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practica1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practicaparcial3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practica1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practica2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practicaparcial3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practica2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PRACTICA CODIGOS" />
+        <item itemvalue="Python.practica2" />
+        <item itemvalue="Python.practica1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1132" y="271" width="440" height="715" key="FileChooserDialogImpl" timestamp="1599165425431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1132" y="271" width="440" height="715" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599165425431" />
+    <state width="1898" height="835" key="GridCell.Tab.0.bottom" timestamp="1599275506866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="835" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599275506866" />
+    <state width="1898" height="835" key="GridCell.Tab.0.center" timestamp="1599275506866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="835" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599275506866" />
+    <state width="1898" height="835" key="GridCell.Tab.0.left" timestamp="1599275506866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="835" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599275506866" />
+    <state width="1898" height="835" key="GridCell.Tab.0.right" timestamp="1599275506866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1898" height="835" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599275506866" />
+    <state x="649" y="133" key="SettingsEditor" timestamp="1599147560766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="133" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599147560766" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599271023000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599271023000" />
+  </component>
+</project>
